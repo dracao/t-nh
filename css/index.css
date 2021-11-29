@@ -1,0 +1,15 @@
+* {
+  margin: 0 !important;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#result {
+  display: none;
+}
+
+#khoiA {
+  display: none;
+}
+/*# sourceMappingURL=index.css.map */
